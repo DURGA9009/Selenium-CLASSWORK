@@ -1,0 +1,17 @@
+<suite parallel-"false" name="Suite™>
+<groups>
+
+<run>
+
+<include name="RegressionTest">
+</include>
+
+ 
+</run>
+</groups>
+<test name="Test">
+<classes>
+<class name="com.Day.CE4"/>
+</classes>
+</test> <!-- Test-->
+</suite><!--Suite-->
